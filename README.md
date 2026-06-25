@@ -34,4 +34,4 @@ npm install -D @types/three
 
 ---
 
-Built by **Om Parida** · [GitHub](https://github.com/CoolSpidey89) · [LinkedIn](https://www.linkedin.com/in/omparida07/)
+Built by **Om Parida** · [GitHub](https://github.com/OmParida89) · [LinkedIn](https://www.linkedin.com/in/omparida07/)

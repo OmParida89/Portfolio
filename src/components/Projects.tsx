@@ -13,7 +13,7 @@ const projects = [
     color: '#a78bfa',
     gradient: 'linear-gradient(135deg, #1a1035, #2d1b69)',
     demo: 'https://github-profile-analyzer-eta-ashy.vercel.app/',
-    code: 'https://github.com/CoolSpidey89/github-profile-analyzer',
+    code: 'https://github.com/OmParida89/github-profile-analyzer',
     video: '/videos/github_analyzer.mp4' as string | null,
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     color: '#06b6d4',
     gradient: 'linear-gradient(135deg, #0c1a2e, #0e3a5c)',
     demo: 'https://smart-expense-visualizer.vercel.app/',
-    code: 'https://github.com/CoolSpidey89/Smart-Expense-Visualizer',
+    code: 'https://github.com/OmParida89/Smart-Expense-Visualizer',
     video: '/videos/SpendWise.mp4' as string | null,
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     color: '#34d399',
     gradient: 'linear-gradient(135deg, #0a1f1a, #0d3321)',
     demo: 'https://portfolio-beta-coral-72.vercel.app/',
-    code: 'https://github.com/CoolSpidey89/Portfolio',
+    code: 'https://github.com/OmParida89/Portfolio',
     video: '/videos/Portfolio.mp4' as string | null,
   },
   {
@@ -49,7 +49,7 @@ const projects = [
     color: '#f472b6',
     gradient: 'linear-gradient(135deg, #1f0a1a, #3d0d2a)',
     demo: null as string | null,
-    code: 'https://github.com/CoolSpidey89/Library-Management-System',
+    code: 'https://github.com/OmParida89/Library-Management-System',
     video: '/videos/LibTrack.mp4' as string | null,
   },
 ]
