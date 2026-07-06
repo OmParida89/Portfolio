@@ -36,7 +36,7 @@ const projects = [
     tags: ['Next.js', 'Three.js', 'Framer Motion', 'TypeScript', 'Tailwind CSS'],
     color: '#34d399',
     gradient: 'linear-gradient(135deg, #0a1f1a, #0d3321)',
-    demo: 'https://portfolio-beta-coral-72.vercel.app/',
+    demo: 'https://om-parida.vercel.app',
     code: 'https://github.com/OmParida89/Portfolio',
     video: '/videos/Portfolio.mp4' as string | null,
   },
